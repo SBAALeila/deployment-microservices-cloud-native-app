@@ -20,4 +20,11 @@ Welcome to the Microservice Cloud-Native Application project! In this repository
 
 <img src="./Assets/payment_page.png">
 
+## ArgoCd is dectecting:
+
+<img src="./Assets/argo_1.png">
+
+<img src="./Assets/argo_2.png">
+
+<img src="./Assets/argo_1.png">
 
